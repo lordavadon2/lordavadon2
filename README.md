@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lordavadon2
+- 👀 I’m interested in Python, JS
+- 🌱 I’m currently learning Flask, FastApi, Django, Vue
