@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @lordavadon2
 - 👀 I’m interested in Python, JS
 - 🌱 I’m currently learning Flask, FastApi, Django, Vue
+- 🙈 My second account with django projects - https://gitlab.com/lordavadon22
